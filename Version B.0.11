@@ -1,5 +1,10 @@
 Fixed broken cuttingboard recipe for Magogany Logs.
 
-Added Cobblepedia
-Added Fight or FLight
-Added Engineers decor
+Added Cobblepedia.
+Added Fight or Flight.
+Added Engineers Decor.
+
+Integrated Quark furnaces into ED recipes.
+Made ED signs craftable with a stonecutter.
+Fixed the trident being unthrowable
+Changed durability of the Trident, Elytra and wire cuters to 9001, since they do not work with no durability.
