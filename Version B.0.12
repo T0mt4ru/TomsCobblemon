@@ -1,6 +1,9 @@
 Added Tomtaru's Cobblemon & Immersive Engineering Tweaks (server)
 
-Removed Duplicate Recipes
+Added farmers delight rich soil as a possible soil in the Garden Cloche
+Added berries from Oh the Biomes you Go to the Garden Cloche
+
+Removed Duplicate Recipes due to moving them into their own mod.
 
 Updated to Forge 43.2.8 (server)
 
@@ -17,3 +20,5 @@ Updated Placebo (server)
 Updated Puzzled Lib (server)
 Updated Quark (server)
 Updated SuperMartijn642's Core Lib (server)
+
+Fixed a spelling mistake in the Roseate Ball, making them unable to spawn as loot.
