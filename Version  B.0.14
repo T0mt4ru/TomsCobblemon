@@ -28,7 +28,8 @@ Updated Quark (server)
 Added Cobblemon Mike Effects (server)
 Added Engineers Delight (server)
 
-Fixed not all hollow log recipes giving 4 hollow logs
-Fixed recipe ID for slimeballs
+Fixed not all hollow log recipes giving 4 hollow logs.
+Fixed recipe ID for slimeballs.
+Fixed Ancient Logs not strippable on the Cutting Board
 
 REMOVE JEIMULIBLOCK FROM SERVER
