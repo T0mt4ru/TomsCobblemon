@@ -2,6 +2,7 @@ Updated Adaptive Performance Tweaks Core (server)
 Updated Adaptive Performance Tweaks Spawn (server)
 Updated Architectury (server)
 Updated Chipped (server)
+Updated Collective (server)
 Updated EveryCompat (server)
 Updated Expanded Storage (server)
 Updated Jade Addons (server)
@@ -10,8 +11,10 @@ Updated Moonlight Lib (server)
 Updated MoreJS (server)
 Updated Placebo (server)
 Updated Quark (server)
+Updated Rubidium
 Updated SuperMartijn642's Core Lib (server)
 Updated Terralith (server)
 
 Added Cobblemon Mike Skills (server)
-Changed Recipes for Fishing Rods
+Changed Recipes for Fishing Rods.
+Removed Durability for Fishing Rods.
